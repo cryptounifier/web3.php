@@ -1,4 +1,4 @@
-# web3.php
+# web3.php (PHP 8 Supported)
 
 [![PHP](https://github.com/web3p/web3.php/actions/workflows/php.yml/badge.svg)](https://github.com/web3p/web3.php/actions/workflows/php.yml)
 [![Build Status](https://travis-ci.org/web3p/web3.php.svg?branch=master)](https://travis-ci.org/web3p/web3.php)
