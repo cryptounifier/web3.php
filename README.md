@@ -7,7 +7,7 @@
 [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/web3p/web3.php/blob/master/LICENSE)
 
 
-A php interface for interacting with the Ethereum blockchain and ecosystem.
+A php interface for interacting with the Ethereum blockchain and ecosystem. Test.
 
 # Install
 
